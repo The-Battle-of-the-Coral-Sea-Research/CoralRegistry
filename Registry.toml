@@ -1,0 +1,5 @@
+name = "CoralRegistry"
+uuid = "664cd222-d5c2-45b7-b2b8-506b5af9efb7"
+repo = "https://github.com/The-Battle-of-the-Coral-Sea-Research/CoralRegistry.git"
+
+[packages]
