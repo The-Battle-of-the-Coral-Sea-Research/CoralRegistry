@@ -3,3 +3,10 @@ uuid = "664cd222-d5c2-45b7-b2b8-506b5af9efb7"
 repo = "https://github.com/The-Battle-of-the-Coral-Sea-Research/CoralRegistry.git"
 
 [packages]
+1e1d868c-5b7f-407b-82cf-a035150c6bf9 = { name = "CoralModels", path = "C/CoralModels" }
+456b9c66-a11c-41ca-89fd-0ec2d9172aac = { name = "CoralTools", path = "C/CoralTools" }
+6aaf26a4-c633-11e8-35ae-8904cb805353 = { name = "Geodesics", path = "G/Geodesics" }
+889110da-db61-40bf-983e-4fb6a8ea23c7 = { name = "CoralData", path = "C/CoralData" }
+a726fbc3-c738-4ce7-b537-27edbf17c83f = { name = "PhysicalVectorsData", path = "P/PhysicalVectorsData" }
+d2242d40-5c46-404c-a207-f3d6a3667631 = { name = "CoralSetup", path = "C/CoralSetup" }
+ece10b52-bc5d-5f9f-8b6e-cc9c6a4b5293 = { name = "KissThreading", path = "K/KissThreading" }
